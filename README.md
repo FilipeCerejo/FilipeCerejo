@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FilipeCerejo
 - 👀 I’m interested in Swimming, Family, Bible.
-- 🌱 I’m currently learning Prisma.
-- 💞️ I’m looking to work as a Backend Engineer.
+- 🌱 I’m currently developing as a Senior .NET Backend Enginner.
 - 📫 Reach me through cerejofilipe@gmail.com.
 
 <!---
