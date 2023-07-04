@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FilipeCerejo
+- 👋 Hi, I’m @FilipeCerejo, Senior .NET Backend Enginner.
 - 👀 I’m interested in Swimming, Family, Bible.
-- 🌱 I’m currently developing as a Senior .NET Backend Enginner.
+- 🌱 I’m currently learning EntityFramework.
 - 📫 Reach me through cerejofilipe@gmail.com.
 
 <!---
